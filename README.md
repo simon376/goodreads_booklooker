@@ -1,4 +1,4 @@
-# Search sales for to-read GR to-read list
+# Used Book Search Application
 ## Search booklooker for sales on (used) books from the goodreads to-read shelf
 
 very much work-in-progress!
