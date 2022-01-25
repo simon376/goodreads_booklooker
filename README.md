@@ -2,6 +2,7 @@
 ## Search booklooker for sales on (used) books from the goodreads to-read shelf
 
 very much work-in-progress!
+small notebook to try web-scraping
 
 - reads [exported goodreads dataset](https://www.goodreads.com/review/import)
 - read into pandas, clean up data
